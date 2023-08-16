@@ -1,5 +1,5 @@
 ### Selam,
-Sizlere python ile yapılmış linux sistemini paylaşmak istedim. `pip istall` yazarak komutu çalıştırabilirsiniz. Daha fazla bilgi için [Web site](https://raxebot.com.tr) Göz atabilirsiniz. 
+Sizlere python ile yapılmış linux sistemini paylaşmak istedim. `pip install` yazarak komutu çalıştırabilirsiniz. Daha fazla bilgi için [Web site](https://raxebot.com.tr) Göz atabilirsiniz. 
 
 
 
